@@ -7,5 +7,7 @@ $("#second-button").click(function() {
 })
 
 $("#third-button").click(function() {
-    $("button").css("background", "pink");
+    $("button").css("background", input);
 })
+
+let input = "blue"
