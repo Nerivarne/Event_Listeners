@@ -6,6 +6,6 @@ $("#second-button").click(function() {
     $("#first-button").text("Changed text");
 })
 
-$("#third-button").click:acive(function() {
+$("#third-button").click(function() {
     $("button").css("background", "pink");
 })
